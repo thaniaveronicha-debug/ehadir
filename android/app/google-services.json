@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "244181607041",
+    "project_id": "e-hadir-b42ba",
+    "storage_bucket": "e-hadir-b42ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244181607041:android:13aaf191a6cb588faba380",
+        "android_client_info": {
+          "package_name": "com.example.e_hadir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244181607041-um6ibghuh9s3dj0m8ffeos8jgn4e4bc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_hadir",
+            "certificate_hash": "ab39975422efae86db455ad857de046541497821"
+          }
+        },
+        {
+          "client_id": "244181607041-8qcslq6uku2eo62a73at4106upaqe45o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd461CVHCfZMQXyIyB_MHOKDThnldecJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244181607041-8qcslq6uku2eo62a73at4106upaqe45o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244181607041-9kee47fq7k9h3lr3c341vlivd2se9m5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eHadir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
